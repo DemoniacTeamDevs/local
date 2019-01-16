@@ -5,7 +5,7 @@
         
 
 	   
-	<project path="device/motorola/namath" name="android_device_motorola_namath" remote="HB72K" revision="aosp"/>
+	<project path="device/motorola/namath" name="android_device_motorola_namath" remote="HB72K" revision="omni"/>
 	<project path="kernel/motorola/namath" name="Moto-C-namath-kernel" remote="HB72K" revision="LOS-14.1" />
 	<project path="vendor/motorola/namath" name="android_vendor_motorola_namath" remote="HB72K" revision="LOS-14.1" />
       
